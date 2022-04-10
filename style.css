@@ -1,0 +1,14 @@
+.inputFormat{
+    padding: 10px 0rem;
+    padding-right: 6rem;
+    padding-left:5px;
+    margin: 5px 0px;
+}
+
+.inputFormat::placeholder{
+    width:300px;
+}
+
+.outputFormat{
+    color:red;
+}
